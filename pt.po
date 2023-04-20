@@ -7,9 +7,9 @@ msgstr ""
 "Project-Id-Version: Odoo Server 14.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 10:30+0000\n"
-"PO-Revision-Date: 2023-04-19 21:10+0000\n"
-"Last-Translator: Pedro Castro Silva <pedrocs@exo.pt>\n"
-"Language-Team: Portuguese <http://translation.exosoftware.pt/projects/"
+"PO-Revision-Date: 2023-04-22 08:44+0000\n"
+"Last-Translator: Eduardo Silva <eduardo.silva@exo.pt>\n"
+"Language-Team: Portuguese <https://translation.exosoftware.pt/projects/"
 "special-translations/theme-prime/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
@@ -175,7 +175,7 @@ msgstr ""
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.products
 msgid "(Clear All)"
-msgstr ""
+msgstr "(Limpar Tudo)"
 
 #. module: theme_prime
 #. openerp-web
@@ -184,33 +184,33 @@ msgstr ""
 #: code:addons/theme_prime/static/src/xml/editor/widgets/products_widget.xml:0
 #, python-format
 msgid "(Drag & Drop items to sort)"
-msgstr ""
+msgstr "(Arraste e solte os itens para classificar)"
 
 #. module: theme_prime
 #. openerp-web
 #: code:addons/theme_prime/static/src/xml/editor/widgets/ui_configurator_widget.xml:0
 #, python-format
 msgid "(Hover card to see effects)"
-msgstr ""
+msgstr "(Passe o rato por cima do cartão para ver os efeitos)"
 
 #. module: theme_prime
 #. openerp-web
 #: code:addons/theme_prime/static/src/xml/editor/widgets/abstract_ui_widget.xml:0
 #, python-format
 msgid "(Hover to see effects)"
-msgstr ""
+msgstr "(Passe o rato para ver os efeitos)"
 
 #. module: theme_prime
 #. openerp-web
 #: code:addons/theme_prime/static/src/xml/editor/widgets/ui_configurator_widget.xml:0
 #, python-format
 msgid "(Select option to enable feature)"
-msgstr ""
+msgstr "(Selecione a opção para ativar o recurso)"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_4
 msgid "+ Explore Now"
-msgstr ""
+msgstr "+ Explorar agora"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
@@ -220,19 +220,19 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
 msgid "+1 (650) 691-3277"
-msgstr ""
+msgstr "+1 (650) 691-3277"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_8
 msgid "+123 4567 780"
-msgstr ""
+msgstr "+123 4567 780"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_call_to_action_2
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_6
 msgid "+91 70466 01320"
-msgstr ""
+msgstr "+91 70466 01320"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.tp-countdown_options
@@ -249,111 +249,111 @@ msgstr ""
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.product
 msgid ". Updating this tab will update tab all product with"
-msgstr ""
+msgstr ". A atualização desta secção atualizará a todos os produtos com"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
 msgid "100% Genuine"
-msgstr ""
+msgstr "100% genuíno"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_12
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
 msgid "100% Genuine product"
-msgstr ""
+msgstr "Produto 100% Genuíno"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.product
 msgid "100% Original"
-msgstr ""
+msgstr "100% Original"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
 msgid "100% secure payment"
-msgstr ""
+msgstr "Pagamento 100% seguro"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
 msgid "12"
-msgstr ""
+msgstr "12"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_5
 msgid "1200"
-msgstr ""
+msgstr "1200"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
 msgid "12k+ Customers"
-msgstr ""
+msgstr "12k+ Clientes"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_5
 msgid "1340"
-msgstr ""
+msgstr "1340"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "15 GB"
-msgstr ""
+msgstr "15 GB"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_1
 msgid "156"
-msgstr ""
+msgstr "156"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
 msgid "16"
-msgstr ""
+msgstr "16"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
 msgid "2 column deals, dynamic, countdown"
-msgstr ""
+msgstr "Ofertas de 2 colunas, dinâmico, contagem regressiva"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_1
 msgid "200+"
-msgstr ""
+msgstr "200+"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_5
 msgid "237"
-msgstr ""
+msgstr "237"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_11
 msgid "24 X 7 support"
-msgstr ""
+msgstr "Suporte 24 X 7"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "24/7 Support"
-msgstr ""
+msgstr "Suporte 24/7"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
 msgid "24/7 customer support"
-msgstr ""
+msgstr "Suporte ao cliente 24/7"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
@@ -366,69 +366,71 @@ msgid ""
 "250 Executive Park Blvd, Suite 3400 <br/> San Francisco CA 94134 <br/>United"
 " States"
 msgstr ""
+"250 Executive Park Blvd, Suite 3400 <br/> San Francisco CA 94134 <br/"
+">Estados Unidos"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.product
 msgid "30 Days Return"
-msgstr ""
+msgstr "Devolução de 30 dias"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_10
 msgid "30 Days Support"
-msgstr ""
+msgstr "Suporte de 30 dias"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_1
 msgid "365 x 7"
-msgstr ""
+msgstr "365 x 7"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "5 GB"
-msgstr ""
+msgstr "5 GB"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "50"
-msgstr ""
+msgstr "50"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
 msgid "50 GB"
-msgstr ""
+msgstr "50 GB"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_5
 msgid "8000"
-msgstr ""
+msgstr "8000"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_counters_1
 msgid "97 %"
-msgstr ""
+msgstr "97 %"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
 msgid "<b>$19.00</b>"
-msgstr ""
+msgstr "<b>US$ 19,00</b>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
 msgid "<b>$48.99</b>"
-msgstr ""
+msgstr "<b>$48,99</b>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_5
 msgid "<b><font style=\"font-size: 62px;\">HUGE SALE!</font></b>"
-msgstr ""
+msgstr "<b><font style=\"font-size: 62px;\">GRANDE PROMOÇÃO!</font></b>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_2
 msgid "<em class=\"text-alpha\">Designer</em>"
-msgstr ""
+msgstr "<em class=\"text-alpha\">Designer</em>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_image_products_block
@@ -437,31 +439,34 @@ msgid ""
 "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore "
 "et.</font>"
 msgstr ""
+"<font style=\"color: rgb(255, 255, 255);\">Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore "
+"et.</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_d_image_products_block
 msgid "<font style=\"color: rgb(255, 255, 255);\">New Arrival</font>"
-msgstr ""
+msgstr "<font style=\"color: rgb(255, 255, 255);\">Nova chegada</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
 msgid "<font style=\"font-size: 12px;\">Business Executive</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 12px;\">Executivo de Negócios</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
 msgid "<font style=\"font-size: 12px;\">Chief Executive Officer</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 12px;\">Diretor Executivo</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
 msgid "<font style=\"font-size: 12px;\">Chief Technical Officer</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 12px;\">Diretor Técnico Chefe</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
 msgid "<font style=\"font-size: 12px;\">Developer</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 12px;\">Programador</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
@@ -470,21 +475,23 @@ msgid ""
 "<font style=\"font-size: 24px;\">Get 20% off on any purchase over "
 "200$</font>"
 msgstr ""
+"<font style=\"font-size: 24px;\">Ganhe 20% de desconto em qualquer compra "
+"acima de $ 200 </font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_5
 msgid "<font style=\"font-size: 24px;\">Hurry up!</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">Apresse-se!</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
 msgid "<font style=\"font-size: 24px;\">Starting at $120.00</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">A partir de US$ 120,00</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_2
 msgid "<font style=\"font-size: 24px;\">Starting at $35.00</font>"
-msgstr ""
+msgstr "<font style=\"font-size: 24px;\">A partir de US$ 35,00</font>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_1
