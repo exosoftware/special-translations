@@ -8,7 +8,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 10:30+0000\n"
 "PO-Revision-Date: 2023-05-02 09:18+0000\n"
-"Last-Translator: Pedro Castro Silva <pedrocs@exo.pt>\n"
+"Last-Translator: Eduardo Silva <eduardo.silva@exo.pt>\n"
 "Language-Team: Portuguese <https://translation.exosoftware.pt/projects/"
 "special-translations/theme-prime/pt/>\n"
 "Language: pt\n"
@@ -254,7 +254,6 @@ msgstr "+91 70466 01320"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.tp-countdown_options
-#, fuzzy
 msgid ", .tp-countdown"
 msgstr ", .tp-countdown"
 
@@ -4344,7 +4343,6 @@ msgstr "Morbi tincidunt ultrices fermentum. Suspendisse egestas ipsum eu."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "Morbi tincidunt ultrices."
 msgstr "Morbi tincidunt ultrices."
 
@@ -4352,13 +4350,11 @@ msgstr "Morbi tincidunt ultrices."
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Morbi vel"
 msgstr "Morbi vel"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
-#, fuzzy
 msgid "Motorola"
 msgstr "Motorola"
 
@@ -4419,7 +4415,6 @@ msgstr "NOVOS PRODUTOS TODOS OS DIAS"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
-#, fuzzy
 msgid ""
 "Nam blandit arcu vel mi mollis faucibus. Nam justo velit, maximus viverra "
 "volutpat eu, hendrerit et velit."
@@ -4429,7 +4424,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
-#, fuzzy
 msgid ""
 "Nam blandit arcu vel mi mollis faucibus. Nam justo velit, maximus viverra "
 "volutpat eu, hendrerit et velit. Pellentesque tincidunt mi."
@@ -4451,7 +4445,7 @@ msgstr "Nome: A a Z"
 #: code:addons/theme_prime/static/src/js/editor/widgets/category_widget.js:0
 #: code:addons/theme_prime/static/src/js/editor/widgets/domain_builder_widget.js:0
 #: model_terms:theme.ir.ui.view,arch:theme_prime.products
-#, fuzzy, python-format
+#, python-format
 msgid "Name: Z to A"
 msgstr "Nome - Z a A"
 
@@ -4646,7 +4640,6 @@ msgstr "Nenhum produto similar encontrado!"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
-#, fuzzy
 msgid "Nokia"
 msgstr "Nokia"
 
@@ -4664,7 +4657,6 @@ msgstr "Normal"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Nulla vehicula"
 msgstr "Nulla vehicula"
 
@@ -4672,13 +4664,11 @@ msgstr "Nulla vehicula"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Nullam"
 msgstr "Nullam"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Nullam fermentum"
 msgstr "Nullam fermentum"
 
@@ -4687,7 +4677,6 @@ msgstr "Nullam fermentum"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
-#, fuzzy
 msgid "Nullam mattis"
 msgstr "Nullam mattis"
 
@@ -4697,7 +4686,6 @@ msgstr "Nullam mattis"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_7
-#, fuzzy
 msgid "Nullam sed"
 msgstr "Nullam sed"
 
@@ -4708,7 +4696,6 @@ msgstr "Número de marcas"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Nunc lobortis"
 msgstr "Nunc lobortis"
 
@@ -4796,7 +4783,6 @@ msgstr "Laranja"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
-#, fuzzy
 msgid ""
 "Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
 "ridiculus mus."
@@ -4806,7 +4792,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
-#, fuzzy
 msgid ""
 "Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
 "ridiculus mus. Aenean pretium ac enim eget dignissim."
@@ -4816,7 +4801,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
-#, fuzzy
 msgid ""
 "Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
 "ridiculus mus. Orci varius natoque penatibus et magnis dis parturient "
@@ -4828,7 +4812,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
-#, fuzzy
 msgid ""
 "Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
 "ridiculus mus. Orci varius natoque penatibus et magnis. nascetur ridiculus "
@@ -4840,7 +4823,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
-#, fuzzy
 msgid "Orci varius natoque penatibus et magnis dis parturient montes."
 msgstr "Orci varius natoque penatibus et magnis dis parturient montes."
 
@@ -4937,7 +4919,6 @@ msgstr "Pagamento Aceite"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
-#, fuzzy
 msgid ""
 "Pellentesque habitant morbi tristique senectus et netus et malesuada fames."
 msgstr ""
@@ -4945,19 +4926,16 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_4
-#, fuzzy
 msgid "Pellentesque habitant morbi tristique senectus et netus et."
 msgstr "Pellentesque habitant morbi tristique senectus et netus et."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_4
-#, fuzzy
 msgid "Pellentesque sollicitudin auctor dui, quis consectetur turp."
 msgstr "Pellentesque sollicitudin auctor dui, quis consectetur turp."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
-#, fuzzy
 msgid ""
 "Pellentesque sollicitudin auctor dui, quis consectetur turpis pellentesque "
 "eget."
@@ -4972,13 +4950,11 @@ msgstr "Por mês"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
-#, fuzzy
 msgid "Phablet"
 msgstr "Phablet"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Phasellus ex arcu"
 msgstr "Phasellus ex arcu"
 
@@ -4989,7 +4965,6 @@ msgstr "Número de Telefone"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
-#, fuzzy
 msgid "Play Station"
 msgstr "Play Station"
 
@@ -5000,7 +4975,6 @@ msgstr "Verifique a ortografia ou tente pesquisar outra coisa"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
-#, fuzzy
 msgid "Polo T-shirts"
 msgstr "Polo T-shirts"
 
@@ -5022,13 +4996,11 @@ msgstr "Posição"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_2
-#, fuzzy
 msgid "Praesent ornare mi quis"
 msgstr "Praesent ornare mi quis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
-#, fuzzy
 msgid ""
 "Praesent ornare mi quis velit gravida auctor bibendum in neque. Nunc rutrum."
 msgstr ""
@@ -5036,7 +5008,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_4
-#, fuzzy
 msgid "Praesent ornare mi quis velit gravida auctor bibendum in."
 msgstr "Praesent ornare mi quis velit gravida auctor bibendum in."
 
@@ -5364,13 +5335,11 @@ msgstr "Profissional"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Proin"
 msgstr "Proin"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_1
-#, fuzzy
 msgid "Proin est justo, euismod sit."
 msgstr "Proin est justo, euismod sit."
 
@@ -5378,7 +5347,6 @@ msgstr "Proin est justo, euismod sit."
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Proin eu"
 msgstr "Proin eu"
 
@@ -5388,13 +5356,11 @@ msgstr "Proin eu"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_7
-#, fuzzy
 msgid "Proin lobortis"
 msgstr "Proin lobortis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
-#, fuzzy
 msgid ""
 "Proin purus dui, feugiat id ipsum eu, varius ornare ex. Mauris elit dolor, "
 "consectetur ac accumsan eu, commodo et odio."
@@ -5404,7 +5370,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
-#, fuzzy
 msgid ""
 "Proin purus dui, feugiat id ipsum eu, varius ornare ex. Mauris elit dolor, "
 "consectetur ac accumsan eu."
@@ -5465,7 +5430,6 @@ msgstr "Visualização Rápida"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Quisque"
 msgstr "Quisque"
 
@@ -6100,7 +6064,6 @@ msgstr "Meias"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
-#, fuzzy
 msgid "Sony"
 msgstr "Sony"
 
@@ -6336,7 +6299,6 @@ msgstr "Coleção de verão"
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_2
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_7
-#, fuzzy
 msgid ""
 "Summer Special <span class=\"mx-2\">|</span> Get 50% Off <span "
 "class=\"mx-2\">|</span> Code #GET50"
@@ -6366,19 +6328,16 @@ msgstr "Super Oferta"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "Suspendisse egestas ipsum eu."
 msgstr "Suspendisse egestas ipsum eu."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_4
-#, fuzzy
 msgid "Suspendisse eget pellentesque nisl. Sed in pretium nulla."
 msgstr "Suspendisse eget pellentesque nisl. Sed in pretium nulla."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_1
-#, fuzzy
 msgid ""
 "Suspendisse eget pellentesque nisl. Sed in pretium nulla. Mauris sit amet "
 "sem."
@@ -6389,7 +6348,6 @@ msgstr ""
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_cover_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_1
-#, fuzzy
 msgid ""
 "Suspendisse est nunc, laoreet eget odio id, finibus convallis ipsum. "
 "Praesent eu nisi egestas, gravida dolor eget, suscipit lectus. Class aptent "
@@ -6403,7 +6361,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_2
-#, fuzzy
 msgid ""
 "Suspendisse est nunc, laoreet eget odio id, finibus convallis ipsum. "
 "Praesent eu nisi egestas."
@@ -6413,13 +6370,11 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
-#, fuzzy
 msgid "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio."
 msgstr "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
-#, fuzzy
 msgid ""
 "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio. Sed "
 "bibendum in ante vel accumsan."
@@ -6429,7 +6384,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
-#, fuzzy
 msgid ""
 "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio. Sed "
 "bibendum in ante vel accumsan. Praesent scelerisque."
@@ -6440,7 +6394,6 @@ msgstr ""
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
-#, fuzzy
 msgid ""
 "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio. Sed "
 "bibendum in ante."
@@ -6450,7 +6403,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
-#, fuzzy
 msgid ""
 "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio. Sed "
 "bibendum in ante. Orci varius natoque penatibus et magnis dis parturient "
@@ -6462,7 +6414,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
-#, fuzzy
 msgid ""
 "Suspendisse potenti. Cras a dui et nisl egestas ornare eu quis odio. Sed "
 "bibendum in ante. Suspendisse potenti. Cras a dui et nisl. Sed bibendum in "
@@ -6490,19 +6441,16 @@ msgstr "Fatos de banho"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
-#, fuzzy
 msgid "T-Shirts"
 msgstr "T-Shirts"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
-#, fuzzy
 msgid "T-shirts"
 msgstr "T-shirts"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_1
-#, fuzzy
 msgid "Tablet"
 msgstr "Tablet"
 
@@ -7121,7 +7069,6 @@ msgstr "Links Úteis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
-#, fuzzy
 msgid ""
 "Ut ac pellentesque tortor. Sed fringilla nibh vel urna porttitor feugiat sit"
 " amet ac ex. Duis ut mattis est, eget venenatis leo. Sed et facilisis leo. "
@@ -7133,7 +7080,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "Ut efficitur sem sed."
 msgstr "Ut efficitur sem sed."
 
@@ -7142,7 +7088,6 @@ msgstr "Ut efficitur sem sed."
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_5
-#, fuzzy
 msgid ""
 "Vestibulum id laoreet sapien. Aliquam porttitor neque ut urna efficitur, "
 "eget tincidunt diam convallis. Vestibulum molestie nunc consectetur cursus "
@@ -7256,7 +7201,6 @@ msgstr "Visa"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_7
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_8
-#, fuzzy
 msgid "Vivamus"
 msgstr "Vivamus"
 
@@ -7265,13 +7209,11 @@ msgstr "Vivamus"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
-#, fuzzy
 msgid "Vivamus Tem"
 msgstr "Vivamus Tem"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_4
-#, fuzzy
 msgid ""
 "Vivamus at tempor arcu. Vestibulum fermentum facilisis dui, vitae iaculis "
 "purus accumsan quis. Quisque sit amet dignissim justo. Nullam ac sodales "
