@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Odoo Server 14.0+e\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-04-17 10:30+0000\n"
-"PO-Revision-Date: 2023-05-02 08:32+0000\n"
-"Last-Translator: Eduardo Silva <eduardo.silva@exo.pt>\n"
+"PO-Revision-Date: 2023-05-02 09:18+0000\n"
+"Last-Translator: Pedro Castro Silva <pedrocs@exo.pt>\n"
 "Language-Team: Portuguese <https://translation.exosoftware.pt/projects/"
 "special-translations/theme-prime/pt/>\n"
 "Language: pt\n"
@@ -22,7 +22,6 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
-#, fuzzy
 msgid ""
 "\"Etiam semper molestie sapien a egestas. In consequat venenatis ex, sit "
 "amet ultrices ante pretium et. Suspendisse nec hendrerit nulla, vitae "
@@ -36,7 +35,6 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
-#, fuzzy
 msgid ""
 "\"Fusce sagittis ac orci sed tristique. Suspendisse a lobortis augue. "
 "Maecenas scelerisque varius mattis. Sed auctor fermentum libero, sed "
@@ -50,7 +48,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
-#, fuzzy
 msgid ""
 "\"Fusce sagittis ac orci sed tristique. Suspendisse a lobortis augue. "
 "Maecenas scelerisque varius mattis. Sed auctor fermentum libero, sed "
@@ -62,7 +59,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_2
-#, fuzzy
 msgid ""
 "\"Proin a nisi id turpis pharetra fermentum ac eu sem. Morbi ullamcorper mi "
 "quis porttitor interdum. Maecenas luctus varius interdum. Duis commodo "
@@ -81,7 +77,6 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
-#, fuzzy
 msgid ""
 "\"Proin a nisi id turpis pharetra fermentum ac eu sem. Morbi ullamcorper mi "
 "quis porttitor interdum. Maecenas luctus varius interdum. Duis commodo "
@@ -93,9 +88,8 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.option_collapse_categories_recursive
-#, fuzzy
 msgid "#{'Unfold' if c.id in category.parents_and_self.ids else 'Fold'}"
-msgstr "#{'Unfold' if c.id in category.parents_and_self.ids else 'Fold'}"
+msgstr "#{'Desdobrar' if c.id in category.parents_and_self.ids else 'Dobrar'}"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.products_item
@@ -175,7 +169,7 @@ msgstr "US$ 9,99"
 #. module: theme_prime
 #. openerp-web
 #: code:addons/theme_prime/static/src/xml/frontend/image_hotspot.xml:0
-#, fuzzy, python-format
+#, python-format
 msgid "% OFF"
 msgstr "% OFF"
 
@@ -678,14 +672,12 @@ msgstr "<i class=\"dri dri-eye\" role=\"img\" aria-label=\"Quick View\"/>"
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_3
-#, fuzzy
 msgid "<i class=\"fa fa-1x fa-fw fa-envelope\"/> info@yourcompany.example.com"
 msgstr "<i class=\"fa fa-1x fa-fw fa-envelope\"/> info@yourcompany.example.com"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_header_style_3
-#, fuzzy
 msgid "<i class=\"fa fa-1x fa-fw fa-phone\"/> 1 (650) 691-3277"
 msgstr "<i class=\"fa fa-1x fa-fw fa-phone\"/> 1 (650) 691-3277"
 
@@ -779,9 +771,8 @@ msgstr "<i class=\"fa fa-check-circle-o\"/> Produtos de qualidade"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.products_item
-#, fuzzy
 msgid "<i class=\"fa fa-clone\" role=\"img\" aria-label=\"View Similar\"/>"
-msgstr "<i class=\"fa fa-clone\" role=\"img\" aria-label=\"View Similar\"/>"
+msgstr "<i class=\"fa fa-clone\" role=\"img\" aria-label=\"Ver Similares\"/>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.tp_options
@@ -864,7 +855,6 @@ msgstr "<span class=\"badge badge-primary badge-pill\">Descubra</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.product_add_to_wishlist
-#, fuzzy
 msgid ""
 "<span class=\"dri dri-wishlist\" role=\"img\" aria-label=\"Add to "
 "wishlist\"/> <span class=\"d-md-none\">Add to Wishlist</span>"
@@ -883,25 +873,21 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_3
-#, fuzzy
 msgid "<span class=\"fa fa-envelope mr-1\"/> information@mail.com"
 msgstr "<span class=\"fa fa-envelope mr-1\"/> information@mail.com"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_3
-#, fuzzy
 msgid "<span class=\"fa fa-envelope mr-2\"/> information@mail.com"
 msgstr "<span class=\"fa fa-envelope mr-2\"/> information@mail.com"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_2
-#, fuzzy
 msgid "<span class=\"fa fa-envelope p-1\"/> information@mail.com"
 msgstr "<span class=\"fa fa-envelope p-1\"/> information@mail.com"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_5
-#, fuzzy
 msgid "<span class=\"fa fa-envelope p-2\"/> information@mail.com"
 msgstr "<span class=\"fa fa-envelope p-2\"/> information@mail.com"
 
@@ -916,7 +902,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_3
-#, fuzzy
 msgid "<span class=\"fa fa-phone mr-1\"/> +12 345 6789 101"
 msgstr "<span class=\"fa fa-phone mr-1\"/> +12 345 6789 101"
 
@@ -927,13 +912,11 @@ msgstr "<span class=\"fa fa-phone mr-1\"/> +12 345 6789 101"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_2
-#, fuzzy
 msgid "<span class=\"fa fa-phone p-1\"/> +12 345 6789 101"
 msgstr "<span class=\"fa fa-phone p-1\"/> +12 345 6789 101"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_team_5
-#, fuzzy
 msgid "<span class=\"fa fa-phone p-2\"/> +12 345 6789 101"
 msgstr "<span class=\"fa fa-phone p-2\"/> +12 345 6789 101"
 
@@ -983,19 +966,16 @@ msgstr "<span class=\"mx-1\">Publicado por</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check text-o-color-1\"/> Cras justo odio"
 msgstr "<span class=\"p-1 fa fa-check text-o-color-1\"/> Cras justo odio"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check text-o-color-1\"/> Dapibus ac facilisis"
 msgstr "<span class=\"p-1 fa fa-check text-o-color-1\"/> Dapibus ac facilisis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check text-o-color-1\"/> Vestibulum at eros"
 msgstr "<span class=\"p-1 fa fa-check text-o-color-1\"/> Vestibulum at eros"
 
@@ -1012,18 +992,16 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_6
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check\"/> <strong>Email Support</strong>"
-msgstr "<span class=\"p-1 fa fa-check\"/> <strong>Suporte por e-mail</strong>"
+msgstr "<span class=\"p-1 fa fa-check\"/> <strong>Suporte por Email</strong>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_6
-#, fuzzy
 msgid ""
 "<span class=\"p-1 fa fa-check\"/> <strong>Unlimited</strong> Email Addresses"
 msgstr ""
 "<span class=\"p-1 fa fa-check\"/> <strong>Ilimitado</strong> Endereços de "
-"e-mail"
+"Email"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_6
@@ -1034,37 +1012,31 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check\"/> Cras justo odio"
 msgstr "<span class=\"p-1 fa fa-check\"/> Cras justo odio"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check\"/> Dapibus ac facilisis"
 msgstr "<span class=\"p-1 fa fa-check\"/> Dapibus ac facilisis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-check\"/> Vestibulum at eros"
 msgstr "<span class=\"p-1 fa fa-check\"/> Vestibulum at eros"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-times text-o-color-1\"/> Cras justo odio"
 msgstr "<span class=\"p-1 fa fa-times text-o-color-1\"/> Cras justo odio"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-times text-o-color-1\"/> Dapibus ac facilisis"
 msgstr "<span class=\"p-1 fa fa-times text-o-color-1\"/> Dapibus ac facilisis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-times text-o-color-1\"/> Vestibulum at eros"
 msgstr "<span class=\"p-1 fa fa-times text-o-color-1\"/> Vestibulum at eros"
 
@@ -1080,25 +1052,21 @@ msgstr "<span class=\"p-1 fa fa-times\"/> <strong>Suporte por e-mail</strong>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-times\"/> Cras justo odio"
 msgstr "<span class=\"p-1 fa fa-times\"/> Cras justo odio"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-times\"/> Dapibus ac facilisis"
 msgstr "<span class=\"p-1 fa fa-times\"/> Dapibus ac facilisis"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "<span class=\"p-1 fa fa-times\"/> Vestibulum at eros"
 msgstr "<span class=\"p-1 fa fa-times\"/> Vestibulum at eros"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_9
-#, fuzzy
 msgid ""
 "<span class=\"s_badge badge badge-danger o_animable\"><i class=\"dri dri-"
 "tag-l\"/>Popular</span>"
@@ -1108,7 +1076,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_9
-#, fuzzy
 msgid ""
 "<span class=\"s_badge badge badge-danger o_animable\"><i class=\"dri dri-"
 "tag-l\"/>Trending</span>"
@@ -1127,7 +1094,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_9
-#, fuzzy
 msgid ""
 "<span class=\"s_badge badge badge-primary o_animable\"><i class=\"fa fa-"
 "star\"/>Sale</span>"
@@ -1146,48 +1112,42 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
-#, fuzzy
 msgid ""
 "<span class=\"tp-offer-label-md\">%</span>\n"
 "                                <span class=\"d-block text-uppercase tp-offer-label-sm\">off</span>"
 msgstr ""
 "<span class=\"tp-offer-label-md\">%</span>\n"
 "                                <span class=\"d-block text-uppercase tp-"
-"offer-label-sm\">desligado</span>"
+"offer-label-sm\">desconto</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_tp_documents_snippet
-#, fuzzy
 msgid ""
 "<span class=\"tp_add_documents font-weight-bold\" style=\"cursor: "
 "pointer;\"><i class=\"fa fa-plus-circle\"/> Add Documents</span>"
 msgstr ""
 "<span class=\"tp_add_documents font-weight-bold\" style=\"cursor: pointer;\""
-"><i class=\"fa fa-plus-circle\"/> Adicionar documentos</span>"
+"><i class=\"fa fa-plus-circle\"/> Adicionar Documentos</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.product
-#, fuzzy
 msgid "<span><i class=\"fa fa-pencil-square-o\"/> Design Popup</span>"
-msgstr "<span><i class=\"fa fa-pencil-square-o\"/> Pop-up de design</span>"
+msgstr "<span><i class=\"fa fa-pencil-square-o\"/> Pop-up de Design</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_3
-#, fuzzy
 msgid "<span>Apple Ltd.</span>"
 msgstr "<span>Apple Ltd.</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.products
-#, fuzzy
 msgid "<span>Brand : </span>"
 msgstr "<span>Marca: </span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_testimonial_5
-#, fuzzy
 msgid "<span>Designer</span>"
 msgstr "<span>Designer</span>"
 
@@ -1241,15 +1201,13 @@ msgstr "<span>Ambiente de teste</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.snippets
-#, fuzzy
 msgid "<span>Theme Prime</span>"
 msgstr "<span>Theme Prime</span>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
-#, fuzzy
 msgid "<strong>$19.99</strong>"
-msgstr "<strong>US$ 19,99</strong>"
+msgstr "<strong>$19.99</strong>"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_5
@@ -1346,7 +1304,6 @@ msgstr "Conta"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_2
-#, fuzzy
 msgid "Account &amp; other info"
 msgstr "Conta &amp; outras informações"
 
@@ -1496,7 +1453,6 @@ msgstr "Eneia"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
-#, fuzzy
 msgid ""
 "Aenean varius ligula vel augue condimentum scelerisque. In a urna at tortor "
 "tincidunt gravida sit amet vel eros. Integer et."
@@ -1506,7 +1462,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
-#, fuzzy
 msgid ""
 "Aenean varius ligula vel augue condimentum scelerisque. In a urna at tortor "
 "tincidunt gravida sit."
@@ -1616,7 +1571,6 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_7
-#, fuzzy
 msgid "American Express"
 msgstr "American Express"
 
@@ -2628,7 +2582,6 @@ msgstr "Imagem de capa 02"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_2
-#, fuzzy
 msgid "Cras in feugiat eros"
 msgstr "Cras in feugiat eros"
 
@@ -2644,7 +2597,6 @@ msgstr "Ideias criativas"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Curabitur aliquet"
 msgstr "Curabitur aliquet"
 
@@ -2705,13 +2657,11 @@ msgstr "DESCRIÇÃO"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Dapibus"
 msgstr "Dapibus"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_1
-#, fuzzy
 msgid "Dapibus ac facilisis."
 msgstr "Dapibus ac facilisis."
 
@@ -2863,7 +2813,6 @@ msgstr "Donec Int"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_8
-#, fuzzy
 msgid "Donec non"
 msgstr "Donec non"
 
@@ -2874,7 +2823,6 @@ msgstr "Donec non"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_7
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_8
-#, fuzzy
 msgid "Donec ultrices"
 msgstr "Donec ultrices"
 
@@ -2939,7 +2887,6 @@ msgstr "Data de vencimento"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_3
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_4
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_5
-#, fuzzy
 msgid "Duis"
 msgstr "Duis"
 
@@ -3045,7 +2992,6 @@ msgstr "Insira um valor de preço válido"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_6
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_7
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_8
-#, fuzzy
 msgid "Etiam"
 msgstr "Etiam"
 
@@ -3734,7 +3680,6 @@ msgstr "Em 2-3 dias"
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_1
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_4
-#, fuzzy
 msgid ""
 "In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
 "pellentesque nulla ornare sed."
@@ -3744,7 +3689,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_3
-#, fuzzy
 msgid ""
 "In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
 "pellentesque nulla ornare sed. Aliquam eget aliquam urna. Aliquam et."
@@ -3754,7 +3698,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_8
-#, fuzzy
 msgid ""
 "In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
 "pellentesque nulla ornare sed. In hac habitasse platea dictumst. "
@@ -3766,7 +3709,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_7
-#, fuzzy
 msgid ""
 "In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
 "pellentesque nulla ornare sed. Orci varius natoque penatibus et magnis dis "
@@ -3778,7 +3720,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_2
-#, fuzzy
 msgid ""
 "In hac habitasse platea dictumst. Praesent cursus congue felis, nec "
 "pellentesque nulla."
@@ -3788,13 +3729,11 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_icon_block_9
-#, fuzzy
 msgid "In hac habitasse platea dictumst. Praesent cursus congue felis."
 msgstr "In hac habitasse platea dictumst. Praesent cursus congue felis."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_6
-#, fuzzy
 msgid ""
 "In hendrerit viverra enim, quis tempor orci faucibus in. Mauris id aliquet "
 "justo. Praesent vulputate sed ex eget ultrices. Aliquam erat volutpat. "
@@ -4121,7 +4060,6 @@ msgstr "Carregar mais produtos..."
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Lobortis dictum"
 msgstr "Lobortis dictum"
 
@@ -4165,7 +4103,6 @@ msgstr "Longo"
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_11
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_banner_12
-#, fuzzy
 msgid ""
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
 "tempor incididunt ut labore et."
@@ -4175,7 +4112,6 @@ msgstr ""
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Lorem ipsum dolor sit amet."
 msgstr "Lorem ipsum dolor sit amet."
 
@@ -4240,7 +4176,6 @@ msgstr "Combine produtos com"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_mega_menu_2
-#, fuzzy
 msgid "Mauris dignissim"
 msgstr "Mauris dignissim"
 
@@ -4398,14 +4333,12 @@ msgstr "Monitor"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
-#, fuzzy
 msgid "Morbi tincidunt ultrices"
 msgstr "Morbi tincidunt ultrices"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_2
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_pricing_3
-#, fuzzy
 msgid "Morbi tincidunt ultrices fermentum. Suspendisse egestas ipsum eu."
 msgstr "Morbi tincidunt ultrices fermentum. Suspendisse egestas ipsum eu."
 
@@ -4472,7 +4405,7 @@ msgstr "A Minha Conta"
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_8
 #: model_terms:theme.ir.ui.view,arch:theme_prime.template_footer_style_9
 msgid "MyCompany"
-msgstr "MyCompany"
+msgstr "MinhaEmpresa"
 
 #. module: theme_prime
 #: model_terms:theme.ir.ui.view,arch:theme_prime.s_info_block_7
